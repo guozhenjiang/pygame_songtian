@@ -1,0 +1,8 @@
+
+课件和源代码
+    http://www.icourse163.org/course/BIT-1001873001
+
+pip install pygame
+
+python -m pygame.examples.aliens
+
